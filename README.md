@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hammad 👋
 
-<!--
-**Ha2mad/Ha2mad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites and I'm working on mobile games under **Axenova Studios**.
 
-Here are some ideas to get you started:
+## 🔨 What I've built
+| Project | What it is | Tech | Live |
+|---|---|---|---|
+| [Axenova Studios website](https://github.com/Ha2mad/Axenova-studio) | Studio site and Play Store privacy policy for my puzzle game **ArrowFlow** (coming soon) | React · TypeScript · Vite · GitHub Actions | [ha2mad.github.io/Axenova-studio](https://ha2mad.github.io/Axenova-studio/) |
+| [Zanain Perfume](https://github.com/Hammadinam/zunain.github.io) | Product storefront with sale pricing, product popups and WhatsApp ordering | HTML · CSS · JavaScript | GitHub Pages |
+| [Qinovation](https://github.com/Hammadinam/qinovation) | Responsive landing page for a web-development team, with a mobile sidebar menu and scroll-highlighted nav | HTML · CSS · JavaScript | GitHub Pages |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools I use
+React · TypeScript · Vite · HTML5 · CSS3 · JavaScript · GitHub Pages · GitHub Actions
+
+## 🎮 Currently
+Building **ArrowFlow**, a grid-based puzzle game for Android.
